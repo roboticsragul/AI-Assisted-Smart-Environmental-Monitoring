@@ -80,6 +80,23 @@ The architecture follows a **Sense → Analyze → Decide → Act** model.
 └─────────────────────────────────────────────────────────────┘
 ```
 
+## 🔹 Day-2: Sensor Data Simulation
+
+To mimic real embedded sensors, a Python-based sensor simulation module was developed. The system generates realistic temperature, humidity, and air quality data at fixed intervals and logs them into a CSV file for further processing.
+
+### Simulated Parameters
+
+- Temperature (°C)
+- Humidity (%)
+- Air Quality Index (AQI)
+
+### Output
+
+- Live console sensor readings
+- Logged dataset stored in CSV format
+
+This module enables software testing before deploying the system on real hardware.
+
 ## 🔹 Technologies Planned
 
 * **Python** (Data simulation & AI logic)
