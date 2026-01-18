@@ -97,6 +97,18 @@ To mimic real embedded sensors, a Python-based sensor simulation module was deve
 
 This module enables software testing before deploying the system on real hardware.
 
+## 🔹 Day-3: Data Visualization & Threshold Detection
+
+Sensor data logged from the simulation module is processed and visualized to analyze environmental trends. Threshold-based classification is applied to categorize system states as Normal, Warning, or Critical.
+
+### Features
+
+- Time-series visualization of temperature and AQI
+- Threshold-based status detection
+- Automated environment classification
+
+The visual analysis helps validate system behavior before applying AI-based prediction and hardware automation.
+
 ## 🔹 Technologies Planned
 
 * **Python** (Data simulation & AI logic)
