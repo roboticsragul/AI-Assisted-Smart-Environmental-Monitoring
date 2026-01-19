@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-BASE_DIR = r"D:\TRACKS Project\forpy\pythonProject1"
+BASE_DIR = r"path location"
 CSV_FILE = os.path.join(BASE_DIR, "simulated_environment_data.csv")
 
 WINDOW_SIZE = 5
@@ -29,3 +29,4 @@ if trend_rising(aqi_vals) and aqi_vals[-1] > AQI_CRITICAL - 20:
     print("⚠️ Predicted AQI Risk: Ventilation required")
 else:
     print("✅ Air quality trend stable")
+
