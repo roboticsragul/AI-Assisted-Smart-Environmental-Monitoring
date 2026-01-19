@@ -10,7 +10,7 @@ HUM_MIN, HUM_MAX = 30, 90          # Percentage
 AQI_MIN, AQI_MAX = 50, 300         # AQI scale
 
 # Directory & file
-BASE_DIR = r"D:\TRACKS Project\forpy\pythonProject1"
+BASE_DIR = r"location"
 CSV_FILE = os.path.join(BASE_DIR, "simulated_environment_data.csv")
 
 def generate_sensor_data():
