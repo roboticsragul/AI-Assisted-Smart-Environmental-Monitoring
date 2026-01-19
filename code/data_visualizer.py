@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import os
 
 # ---------------- Paths ----------------
-BASE_DIR = r"D:\TRACKS Project\forpy\pythonProject1"
+BASE_DIR = r"path location"
 CSV_FILE = os.path.join(BASE_DIR, "simulated_environment_data.csv")
 OUTPUT_DIR = os.path.join(BASE_DIR, "outputs")
 
