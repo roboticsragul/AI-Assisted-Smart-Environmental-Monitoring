@@ -109,6 +109,18 @@ Sensor data logged from the simulation module is processed and visualized to ana
 
 The visual analysis helps validate system behavior before applying AI-based prediction and hardware automation.
 
+## 🔹 Day-4: AI-Based Prediction & Risk Assessment
+
+An AI-assisted prediction module analyzes recent sensor data trends to forecast potential environmental risks. Instead of reacting only to current sensor values, the system predicts unsafe conditions in advance and recommends preventive actions.
+
+### AI Logic Used
+
+- Sliding window analysis
+- Trend-based prediction
+- Pre-emptive alert generation
+
+This approach enables intelligent decision-making suitable for embedded and IoT-based automation systems.
+
 ## 🔹 Technologies Planned
 
 * **Python** (Data simulation & AI logic)
