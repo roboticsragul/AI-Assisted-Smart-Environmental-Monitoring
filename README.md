@@ -121,6 +121,12 @@ An AI-assisted prediction module analyzes recent sensor data trends to forecast 
 
 This approach enables intelligent decision-making suitable for embedded and IoT-based automation systems.
 
+## 🔹 Day-5: Embedded Control Logic & Automation
+
+AI-based predictions are mapped to embedded system control logic to enable automatic hardware actions such as cooling, ventilation, and alarm triggering.
+
+The system is designed to be compatible with Arduino and ESP-based controllers, enabling seamless transition from software simulation to real-world deployment.
+
 ## 🔹 Technologies Planned
 
 * **Python** (Data simulation & AI logic)
