@@ -127,6 +127,24 @@ AI-based predictions are mapped to embedded system control logic to enable autom
 
 The system is designed to be compatible with Arduino and ESP-based controllers, enabling seamless transition from software simulation to real-world deployment.
 
+## 🔹 Day-6: System Flow & Decision Modeling
+
+To ensure clarity and scalability, the complete system workflow and decision-making logic are represented using flowcharts and decision trees.
+
+### System Flow
+
+- Continuous sensor monitoring
+- Real-time data analysis
+- AI-based risk prediction
+- Automated control actions
+- Closed-loop operation
+
+### Decision Tree
+
+The decision tree visually represents how the system transitions between Normal, Warning, and Critical states based on sensor values and AI predictions.
+
+These diagrams help validate system logic and support future hardware and cloud deployment.
+
 ## 🔹 Technologies Planned
 
 * **Python** (Data simulation & AI logic)
