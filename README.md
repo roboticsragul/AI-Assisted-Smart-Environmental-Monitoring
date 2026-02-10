@@ -159,6 +159,56 @@ These diagrams help validate system logic and support future hardware and cloud 
 * AI-based anomaly detection
 * Automated cooling and ventilation control
 
+## 🔹 Day-7: Project Summary & Final Documentation
+
+### Project Workflow
+
+1. Sensor data acquisition (simulated)
+2. Data logging and visualization
+3. Threshold-based condition detection
+4. AI-assisted trend prediction
+5. Embedded control logic mapping
+6. Automated system response
+
+## 🔹 Features
+
+* Real-time sensor data simulation
+* Environmental data visualization
+* Threshold-based status detection
+* AI-assisted risk prediction
+* Embedded system control mapping
+* Automation-ready system design
+
+## 🔹 Results & Outputs
+
+The system successfully:
+
+* Generated realistic environmental sensor data
+* Identified unsafe conditions using threshold logic
+* Predicted potential risks before critical states
+* Generated automated control decisions
+* Visualized trends using time-series graphs
+
+### 📊 Sample Outputs
+
+* Temperature vs Time plot
+* AQI vs Time plot
+* Console-based AI prediction alerts
+
+## 🔹 Technologies Used
+
+* **Python** (Data simulation & AI logic)
+* **Embedded System Logic** (Arduino / ESP-ready)
+* **IoT-ready** data flow design
+* Data visualization and logging
+
+## 🔹 Future Scope
+
+* Integration with real sensors (DHT11, MQ series)
+* Cloud dashboard using IoT platforms
+* AI-based anomaly detection
+* Automated cooling and ventilation control
+
 ## 🔹 Installation
 
 ```bash
@@ -178,6 +228,10 @@ pip install -r requirements.txt
 # Run the simulation
 python main.py
 ```
+
+## 🔹 Author
+Gopi Ragul R
+Embedded Systems | IoT | AI-assisted Automation
 
 ## 🔹 Contributing
 
